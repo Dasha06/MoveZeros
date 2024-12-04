@@ -1,0 +1,14 @@
+/home/gara/csharp/progects_not_big/MoveZeros/bin/Debug/net8.0/MoveZeros
+/home/gara/csharp/progects_not_big/MoveZeros/bin/Debug/net8.0/MoveZeros.deps.json
+/home/gara/csharp/progects_not_big/MoveZeros/bin/Debug/net8.0/MoveZeros.runtimeconfig.json
+/home/gara/csharp/progects_not_big/MoveZeros/bin/Debug/net8.0/MoveZeros.dll
+/home/gara/csharp/progects_not_big/MoveZeros/bin/Debug/net8.0/MoveZeros.pdb
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.AssemblyInfoInputs.cache
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.AssemblyInfo.cs
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.csproj.CoreCompileInputs.cache
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.dll
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/refint/MoveZeros.dll
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.pdb
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/MoveZeros.genruntimeconfig.cache
+/home/gara/csharp/progects_not_big/MoveZeros/obj/Debug/net8.0/ref/MoveZeros.dll
